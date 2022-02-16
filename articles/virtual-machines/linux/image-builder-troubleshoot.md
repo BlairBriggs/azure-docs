@@ -531,7 +531,7 @@ The cause may be a timing issue due to the D1_V2 VM size. If customizations are 
 
 #### Solution
 
-Increase the VM size. Or, you can add a 60-second PowerShell sleep customization to avoid the timing issue.
+Decrease the VM size. Or, you can add a 60-second PowerShell sleep customization to avoid the timing issue.
 
 ### Cancelling builder after context cancellation context canceled
 
